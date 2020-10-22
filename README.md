@@ -34,7 +34,7 @@ ____
 
 ## Q /A
 
-1.Filter by Price widget not displaying
+#### 1.Filter by Price widget not displaying
 
 This issue is caused by WooCommerce or by the importer. It does not have to do with the theme. 
 For some reason, the widget is not able to recognise the product prices. You can force it to get the price range by going to 
